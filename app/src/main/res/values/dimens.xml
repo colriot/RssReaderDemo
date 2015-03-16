@@ -1,0 +1,7 @@
+<resources>
+  <dimen name="size_image_for_list">64dp</dimen>
+  <dimen name="size_image_for_details">192dp</dimen>
+  <dimen name="size_image_splash">96dp</dimen>
+  <dimen name="spacing_large">16dp</dimen>
+  <dimen name="spacing_normal">8dp</dimen>
+</resources>
